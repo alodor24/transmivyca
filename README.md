@@ -1,6 +1,8 @@
 # transmivyca
 Proyecto web desarrollado con PHP
 
-DEMO
+### DEMO
+
 Usuario: administrador
+
 Contraseña: administrador
